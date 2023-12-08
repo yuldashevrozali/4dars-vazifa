@@ -1,0 +1,20 @@
+h1 {
+    color: var(--Dark, #2A2941);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Circular Std;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 130%;
+    /* 41.6px */
+}
+
+.new{
+    color: var(--30-black, #B3B3B3);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Circular Std;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 450;
+    line-height: 130%; /* 20.8px */
+}

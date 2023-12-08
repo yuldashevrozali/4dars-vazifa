@@ -1,0 +1,45 @@
+#title {
+    display: flex;
+    width: 802px;
+    font-size: 20px;
+    height: 26px;
+    padding: 18px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 16px;
+    border: 1px solid #E3E3E3;
+}
+
+#Sarlavha {
+    color: var(--Dark, #2A2941);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Circular Std;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 450;
+    line-height: normal;
+}
+
+#Soha {
+    display: flex;
+    width: 802px;
+    font-size: 20px;
+    height: 26px;
+    padding: 18px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 16px;
+    border: 1px solid #E3E3E3;
+}
+
+#Soha2 {
+    width: 702px;
+    height: 80px;
+    font-size: 24px;
+    border-radius: 16px;
+    border: 1px solid #E3E3E3;
+}
+
+#Soha2::placeholder{
+    margin-top: -100px;
+}
